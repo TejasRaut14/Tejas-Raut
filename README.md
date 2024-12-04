@@ -1,5 +1,4 @@
-# Tejas-Raut
-Data Analyst 
+![logo](https://github.com/TejasRaut14/Tejas-Raut/blob/main/data-analyst.jpg)
 <h1 align="center">Hi 👋, I'm Tejas Raut</h1>
 <h3 align="center">Turning raw data into actionable insights | SQL | Python | Power BI | EDA | ETL</h3>
 
